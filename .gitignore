@@ -56,3 +56,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+SDK/HAL/STM32H750/08-DCMI2LCD/MDK-ARM/JLinkLog.txt
